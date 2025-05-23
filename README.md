@@ -1,2 +1,3 @@
-# StopRightNow
-Implementação da estratégia de Parada Antecipada (Early Stopping) no processo de treino da rede neural feita em PyTorch. Atividade da disciplina ATP-303 - Redes Neurais e Algoritmos Genéticos na Ilum Escola de Ciência.
+<div align="center">
+  <img src="Imagens/logo_Ilum-CNPEM.png" alt="Descrição da imagem" width="1000"/>
+</div>
